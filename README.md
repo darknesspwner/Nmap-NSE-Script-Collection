@@ -1,5 +1,5 @@
 # Notice:
-It seems that the creator behind this, Unalivin has deleted (or at least private) the original repository, this was was originally a fork to add f strings in the linter. 
+It seems that the creator behind this, Unalivin has deleted (or at least private) the original repository, this was was originally a fork to add f strings in the linter (CI/CD pipeline). 
 
 As a result, I decided to archive this for preservation, if the creator wants to take it down, so be it. 99% of the things here are not my work at all 
 
